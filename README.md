@@ -1,30 +1,39 @@
-# codsoft_task-2
 
-# Portfolio Website
+# Cognifyz-UI
 
-This repository contains the source code for my personal portfolio website built using HTML and CSS. The website serves as a showcase of my skills, projects, and experiences. It features a clean and modern design with responsive layouts, allowing it to adapt to different screen sizes and devices.
+Cognifyz-UI is a user interface library built with HTML and CSS, designed to simplify web development and enhance user experience through its intuitive components and customizable themes.
 
-# Key Features:
+## Features
 
-- Responsive Design: Ensures optimal viewing experience across devices, including desktops, tablets, and smartphones.
-- Project Showcase: Highlights my projects with descriptions, screenshots, and links to live demos or repositories.
-- Skills Section: Displays my technical skills and expertise in various technologies and tools.
-- About Me: Provides a brief introduction about myself, my background, and my interests.
-- Contact Form: Allows visitors to get in touch with me easily through a contact form.
+- **Responsive Design:**  Cognifyz-UI components are crafted with responsive layouts, ensuring optimal display across various devices and screen sizes.
 
-# Technologies Used:
+- **Modular Structure:** Each component is modular and easy to integrate into your existing HTML/CSS projects, allowing for seamless customization and extension.
 
-- HTML: Markup language for structuring the web pages.
-- CSS: Styling language for designing the layout and appearance.
-- GitHub Pages: Hosts the portfolio website for easy accessibility and sharing.
+- **Customizable Themes:** Tailor the look and feel of your web applications with Cognifyz-UI's flexible theming options, enabling you to match your brand's identity or design preferences effortlessly.
 
-# Usage:
+- **Accessible Design:** Prioritizing accessibility, Cognifyz-UI adheres to best practices to ensure all users, including those with disabilities, can effectively navigate and interact with your web applications.
+## Usage/Examples
 
-- Clone the repository: git clone https://github.com/varmoradeep54545/codsoft_task-2.git
-- Open index.html in your web browser to view the portfolio website.
+To integrate Cognifyz-UI components into your HTML/CSS projects, follow these simple steps:
 
-# Contributing:
-Contributions are welcome! Feel free to submit pull requests or raise issues for any improvements or bug fixes.
+1. Download the latest release of Cognifyz-UI from the GitHub repository.
 
-# License:
-This project is licensed under the MIT License - see the LICENSE file for details.
+2. Extract the downloaded files and copy the cognifyz-ui.css and cognifyz-ui.js files into your project directory.
+
+3. Link the CSS file in your HTML document's '<head>' section:
+```javascript
+<link rel="stylesheet" href="style.css">
+```
+## Contributing
+
+Contributions to Cognifyz-UI are welcome! To contribute, please follow these steps:
+
+1. Fork the repository and create a new branch for your feature or bug fix.
+
+2. Make your changes to the CSS or HTML files.
+Ensure that your changes do not introduce any linting errors or formatting issues.
+
+3. Test your changes thoroughly to ensure they work as expected.
+Commit your changes and push them to your fork.
+
+4. Submit a pull request with a clear description of your changes and why they are necessary.
